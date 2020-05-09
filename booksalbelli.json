@@ -1,0 +1,464 @@
+[
+  {
+    "id": "1",
+    "format": "S",
+    "orderInSizesFormat": 1,
+    "orientation": "landscape",
+    "orderInSizesOrientation": 1,
+    "widthHeightDimensions": "13x10cm",
+    "widthOfPaper": "13",
+    "heightOfPaper": "10",
+    "basePrice": 7.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.2,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 2.5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 3.5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 1.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.05
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "format": "S",
+    "orderInSizesFormat": 1,
+    "orientation": "square",
+    "orderInSizesOrientation": 2,
+    "widthHeightDimensions": "10x10cm",
+    "widthOfPaper": "10",
+    "heightOfPaper": "10",
+    "basePrice": 6.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 60,
+    "pricePerExtraPage": 0.2,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.05
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "format": "M",
+    "orderInSizesFormat": 2,
+    "orientation": "landscape",
+    "orderInSizesOrientation": 1,
+    "widthHeightDimensions": "20x15m",
+    "widthOfPaper": "20",
+    "heightOfPaper": "15",
+    "basePrice": 13.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.4,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 2.5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 3.5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 2.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.08
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "format": "M",
+    "orderInSizesFormat": 2,
+    "orientation": "portrait",
+    "orderInSizesOrientation": 2,
+    "widthHeightDimensions": "15x20cm",
+    "widthOfPaper": "15",
+    "heightOfPaper": "20",
+    "basePrice": 14.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.4,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 3.5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 2.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.08
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "format": "M",
+    "orderInSizesFormat": 2,
+    "orientation": "square",
+    "orderInSizesOrientation": 3,
+    "widthHeightDimensions": "14x14cm",
+    "widthOfPaper": "14",
+    "heightOfPaper": "14",
+    "basePrice": 11.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.35,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 3.5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 2.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.08
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "format": "L",
+    "orderInSizesFormat": 3,
+    "orientation": "landscape",
+    "orderInSizesOrientation": 1,
+    "widthHeightDimensions": "28x21cm",
+    "widthOfPaper": "28",
+    "heightOfPaper": "121",
+    "basePrice": 22.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.6,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 7.5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 3.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.17
+      },
+      {
+        "paperOption": "Platliggend premium",
+        "price": 0.4
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "format": "L",
+    "orderInSizesFormat": 3,
+    "orientation": "portrait",
+    "orderInSizesOrientation": 2,
+    "widthHeightDimensions": "21x28cm",
+    "widthOfPaper": "21",
+    "heightOfPaper": "28",
+    "basePrice": 22.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.6,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 7.5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 3.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.15
+      },
+      {
+        "paperOption": "Platliggend premium",
+        "price": 0.4
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "format": "L",
+    "orderInSizesFormat": 3,
+    "orientation": "square",
+    "orderInSizesOrientation": 3,
+    "widthHeightDimensions": "21x21cm",
+    "widthOfPaper": "21",
+    "heightOfPaper": "21",
+    "basePrice": 19.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.6,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 7.5
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 3.5
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.15
+      },
+      {
+        "paperOption": "Platliggend premium",
+        "price": 0.4
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "format": "XL",
+    "orderInSizesFormat": 4,
+    "orientation": "landscape",
+    "orderInSizesOrientation": 1,
+    "widthHeightDimensions": "39x29cm",
+    "widthOfPaper": "39",
+    "heightOfPaper": "29",
+    "basePrice": 54.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.9,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 10
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 10
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.3
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "format": "XL",
+    "orderInSizesFormat": 4,
+    "orientation": "portrait",
+    "orderInSizesOrientation": 2,
+    "widthHeightDimensions": "27x36cm",
+    "widthOfPaper": "27",
+    "heightOfPaper": "36",
+    "basePrice": 54.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.9,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 10
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 10
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 4
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.3
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "format": "XL",
+    "orderInSizesFormat": 4,
+    "orientation": "square",
+    "orderInSizesOrientation": 3,
+    "widthHeightDimensions": "30x30cm",
+    "widthOfPaper": "30",
+    "heightOfPaper": "30",
+    "basePrice": 34.95,
+    "starterAmountOfPages": 24,
+    "maxPagesAllowed": 120,
+    "pricePerExtraPage": 0.8,
+    "bookCovers": [
+      {
+        "coverOption": "Linnen kaft",
+        "price": 0
+      },
+      {
+        "coverOption": "Fotokaft",
+        "price": 7.5
+      },
+      {
+        "coverOption": "Leren kaft",
+        "price": 10
+      },
+      {
+        "coverOption": "Linnen kaft met lasertitel",
+        "price": 4
+      }
+    ],
+    "bookPapers": [
+      {
+        "paperOption": "standaard",
+        "price": 0
+      },
+      {
+        "paperOption": "Hoogglans",
+        "price": 0.25
+      },
+      {
+        "paperOption": "Platliggend premium",
+        "price": 0.45
+      }
+    ]
+  }
+]
